@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=hangman
+comment1.params=
+comment1.target=hangman()
+comment1.text=\ Life\ must\ not\ be\ final(instanct)\r\n\ \r\n\ \r\n
+comment2.params=
+comment2.target=boolean\ getStop()
+comment3.params=
+comment3.target=java.lang.String\ get()
+comment4.params=
+comment4.target=java.util.HashMap\ getHash()
+comment5.params=
+comment5.target=void\ generate()
+comment6.params=in
+comment6.target=void\ checkAns(java.lang.String)
+comment7.params=
+comment7.target=int\ getLife()
+comment8.params=
+comment8.target=void\ displayGuess()
+comment8.text=\r\n\ \ \ \ public\ boolean\ getAns()\r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ \ return\ checkA;\r\n}
+comment9.params=
+comment9.target=void\ display()
+numComments=10
